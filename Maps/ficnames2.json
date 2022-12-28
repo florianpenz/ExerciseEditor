@@ -1,0 +1,3899 @@
+{
+  "format": "VIEWAIR-V2",
+  "version": "mapdmp-1.10.1200-x64-stable",
+  "copyright": "Copyright (c) 2021 Peter R. Trimmel",
+  "standards": [
+    {
+      "name": "RFC 7159",
+      "title": "The JavaScript Object Notation (JSON) Data Interchange Format",
+      "link": "https://tools.ietf.org/html/rfc7159"
+    }
+  ],
+  "metadata": {
+    "country": "Austria",
+    "dataset": "B3_6_119_3_V11",
+    "file": ".\\datasets\\B3_6_119_3_V11\\LOVV\\SYSTEM_ODS_MAPS.AIF\\ficnames.dmp",
+    "unit": "LOVV"
+  },
+  "items": [
+    {
+      "model": {
+        "classname": "NewTrafo",
+        "cop_lat": 47.5,
+        "cop_long": 14.0
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "MURZ",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473627N",
+          "geo_long": "0154023E",
+          "latitude": 47.607498168945313,
+          "longitude": 15.673055648803711
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 413,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 418,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "LILI",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "480047N",
+          "geo_long": "0153548E",
+          "latitude": 48.013053894042969,
+          "longitude": 15.59666633605957
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 412,
+          "bounding_y": 322,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 417,
+          "screenpos_y": 334
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "MELK",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "481337N",
+          "geo_long": "0152038E",
+          "latitude": 48.226943969726563,
+          "longitude": 15.343888282775879
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 411,
+          "bounding_y": 321,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 416,
+          "screenpos_y": 333
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "HORI",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473522N",
+          "geo_long": "0163248E",
+          "latitude": 47.589443206787109,
+          "longitude": 16.546667098999023
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 418,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 423,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "LAAT",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "484321N",
+          "geo_long": "0162312E",
+          "latitude": 48.722499847412109,
+          "longitude": 16.386667251586914
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 416,
+          "bounding_y": 316,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 421,
+          "screenpos_y": 328
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "EIST",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "475100N",
+          "geo_long": "0163100E",
+          "latitude": 47.849998474121094,
+          "longitude": 16.516666412353516
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 417,
+          "bounding_y": 323,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 422,
+          "screenpos_y": 335
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "NEUN",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "474337N",
+          "geo_long": "0160454E",
+          "latitude": 47.726943969726563,
+          "longitude": 16.081666946411133
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 415,
+          "bounding_y": 325,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 420,
+          "screenpos_y": 337
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "HOLL",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "483400N",
+          "geo_long": "0160500E",
+          "latitude": 48.566665649414063,
+          "longitude": 16.083333969116211
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 415,
+          "bounding_y": 318,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 420,
+          "screenpos_y": 330
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "HORN",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "483950N",
+          "geo_long": "0153926E",
+          "latitude": 48.663890838623047,
+          "longitude": 15.657221794128418
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 413,
+          "bounding_y": 317,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 418,
+          "screenpos_y": 329
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "ZWTL",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "483612N",
+          "geo_long": "0151008E",
+          "latitude": 48.60333251953125,
+          "longitude": 15.168889045715332
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 410,
+          "bounding_y": 318,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 415,
+          "screenpos_y": 330
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "GMND",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "484611N",
+          "geo_long": "0145911E",
+          "latitude": 48.769721984863281,
+          "longitude": 14.98638916015625
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 409,
+          "bounding_y": 316,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 414,
+          "screenpos_y": 328
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "AMST",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "480700N",
+          "geo_long": "0145200E",
+          "latitude": 48.116664886474609,
+          "longitude": 14.866666793823242
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 408,
+          "bounding_y": 322,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 413,
+          "screenpos_y": 334
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "WDHF",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "475800N",
+          "geo_long": "0144600E",
+          "latitude": 47.966667175292969,
+          "longitude": 14.766666412353516
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 408,
+          "bounding_y": 323,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 413,
+          "screenpos_y": 335
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "STEY",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "480214N",
+          "geo_long": "0142501E",
+          "latitude": 48.037220001220703,
+          "longitude": 14.41694450378418
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 406,
+          "bounding_y": 322,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 411,
+          "screenpos_y": 334
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SATT",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "480400N",
+          "geo_long": "0140300E",
+          "latitude": 48.066665649414063,
+          "longitude": 14.050000190734863
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 404,
+          "bounding_y": 322,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 409,
+          "screenpos_y": 334
+        },
+        "selections": {
+          "selected_entry": -1
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "VBRK",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "480031N",
+          "geo_long": "0133921E",
+          "latitude": 48.008609771728516,
+          "longitude": 13.65583324432373
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 402,
+          "bounding_y": 322,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 407,
+          "screenpos_y": 334
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "BRAU",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "481527N",
+          "geo_long": "0130202E",
+          "latitude": 48.257499694824219,
+          "longitude": 13.033889770507813
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 398,
+          "bounding_y": 320,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 403,
+          "screenpos_y": 332
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "GESA",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473519N",
+          "geo_long": "0143932E",
+          "latitude": 47.588611602783203,
+          "longitude": 14.658888816833496
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 407,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 412,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "ADMO",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473400N",
+          "geo_long": "0142800E",
+          "latitude": 47.566665649414063,
+          "longitude": 14.466666221618652
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 406,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 411,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "ROTT",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473136N",
+          "geo_long": "0142121E",
+          "latitude": 47.526664733886719,
+          "longitude": 14.355834007263184
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 406,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 411,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "LIEZ",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473400N",
+          "geo_long": "0141400E",
+          "latitude": 47.566665649414063,
+          "longitude": 14.233333587646484
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 405,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 410,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "ISCH",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "474313N",
+          "geo_long": "0133800E",
+          "latitude": 47.720279693603516,
+          "longitude": 13.633333206176758
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 402,
+          "bounding_y": 325,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 407,
+          "screenpos_y": 337
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "HRTB",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "471656N",
+          "geo_long": "0155817E",
+          "latitude": 47.282222747802734,
+          "longitude": 15.971388816833496
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 415,
+          "bounding_y": 328,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 420,
+          "screenpos_y": 340
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "GLDF",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470614N",
+          "geo_long": "0154230E",
+          "latitude": 47.103885650634766,
+          "longitude": 15.708333015441895
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 413,
+          "bounding_y": 330,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 418,
+          "screenpos_y": 342
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "DLBG",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "464900N",
+          "geo_long": "0151300E",
+          "latitude": 46.816665649414063,
+          "longitude": 15.216666221618652
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 410,
+          "bounding_y": 332,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 415,
+          "screenpos_y": 344
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "KOFL",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470350N",
+          "geo_long": "0150520E",
+          "latitude": 47.063888549804688,
+          "longitude": 15.088888168334961
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 410,
+          "bounding_y": 330,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 415,
+          "screenpos_y": 342
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "PACK",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "465731N",
+          "geo_long": "0145848E",
+          "latitude": 46.958610534667969,
+          "longitude": 14.979999542236328
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 409,
+          "bounding_y": 331,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 414,
+          "screenpos_y": 343
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SLKP",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "471617N",
+          "geo_long": "0140446E",
+          "latitude": 47.271389007568359,
+          "longitude": 14.07944393157959
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 404,
+          "bounding_y": 328,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 409,
+          "screenpos_y": 340
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "RESP",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "465045N",
+          "geo_long": "0103022E",
+          "latitude": 46.845832824707031,
+          "longitude": 10.506111145019531
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 384,
+          "bounding_y": 331,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 389,
+          "screenpos_y": 343
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "OETS",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "475142N",
+          "geo_long": "0151208E",
+          "latitude": 47.861663818359375,
+          "longitude": 15.202221870422363
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 410,
+          "bounding_y": 324,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 415,
+          "screenpos_y": 336
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "GRVE",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470633N",
+          "geo_long": "0122044E",
+          "latitude": 47.109165191650391,
+          "longitude": 12.345555305480957
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 394,
+          "bounding_y": 330,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 399,
+          "screenpos_y": 342
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "ARLB",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470748N",
+          "geo_long": "0101240E",
+          "latitude": 47.129997253417969,
+          "longitude": 10.211111068725586
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 1,
+          "label_offset_y": 15,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 35,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 4
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 367,
+          "bounding_y": 336,
+          "bounding_w": 45,
+          "bounding_h": 33
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 388,
+          "screenpos_y": 341
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "GRGL",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470426N",
+          "geo_long": "0124141E",
+          "latitude": 47.073886871337891,
+          "longitude": 12.694722175598145
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 396,
+          "bounding_y": 330,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 401,
+          "screenpos_y": 342
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "DACH",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473100N",
+          "geo_long": "0134000E",
+          "latitude": 47.516666412353516,
+          "longitude": 13.666666984558105
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 402,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 407,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "HSWB",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473705N",
+          "geo_long": "0150832E",
+          "latitude": 47.618053436279297,
+          "longitude": 15.14222240447998
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 410,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 415,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SNBG",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "474600N",
+          "geo_long": "0154816E",
+          "latitude": 47.766666412353516,
+          "longitude": 15.804444313049316
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 414,
+          "bounding_y": 324,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 419,
+          "screenpos_y": 336
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SHRP",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "472712N",
+          "geo_long": "0144001E",
+          "latitude": 47.453334808349609,
+          "longitude": 14.66694450378418
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 407,
+          "bounding_y": 327,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 412,
+          "screenpos_y": 339
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "RAXX",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "474122N",
+          "geo_long": "0154116E",
+          "latitude": 47.689445495605469,
+          "longitude": 15.687777519226074
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 413,
+          "bounding_y": 325,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 418,
+          "screenpos_y": 337
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SPIT",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "464730N",
+          "geo_long": "0132945E",
+          "latitude": 46.791667938232422,
+          "longitude": 13.495833396911621
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 401,
+          "bounding_y": 332,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 406,
+          "screenpos_y": 344
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "PLPA",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "463613N",
+          "geo_long": "0125642E",
+          "latitude": 46.603610992431641,
+          "longitude": 12.944999694824219
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 398,
+          "bounding_y": 334,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 403,
+          "screenpos_y": 346
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SLAD",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "472339N",
+          "geo_long": "0134121E",
+          "latitude": 47.394168853759766,
+          "longitude": 13.689167022705078
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 402,
+          "bounding_y": 327,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 407,
+          "screenpos_y": 339
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "BIHO",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "472514N",
+          "geo_long": "0131308E",
+          "latitude": 47.420555114746094,
+          "longitude": 13.218888282775879
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 399,
+          "bounding_y": 327,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 404,
+          "screenpos_y": 339
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "RADS",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "472300N",
+          "geo_long": "0132800E",
+          "latitude": 47.383335113525391,
+          "longitude": 13.466666221618652
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 401,
+          "bounding_y": 328,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 406,
+          "screenpos_y": 340
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SAAL",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "472537N",
+          "geo_long": "0125054E",
+          "latitude": 47.426944732666016,
+          "longitude": 12.848333358764648
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 397,
+          "bounding_y": 327,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 402,
+          "screenpos_y": 339
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "LOFR",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473509N",
+          "geo_long": "0124137E",
+          "latitude": 47.585830688476563,
+          "longitude": 12.693611145019531
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 396,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 401,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "KITZ",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "472647N",
+          "geo_long": "0122331E",
+          "latitude": 47.446388244628906,
+          "longitude": 12.39194393157959
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 395,
+          "bounding_y": 327,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 400,
+          "screenpos_y": 339
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "MITT",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "471600N",
+          "geo_long": "0122800E",
+          "latitude": 47.266666412353516,
+          "longitude": 12.466666221618652
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 395,
+          "bounding_y": 328,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 400,
+          "screenpos_y": 340
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "HMGR",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "463738N",
+          "geo_long": "0132202E",
+          "latitude": 46.627220153808594,
+          "longitude": 13.367222785949707
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 400,
+          "bounding_y": 334,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 405,
+          "screenpos_y": 346
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "MIST",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "483400N",
+          "geo_long": "0163400E",
+          "latitude": 48.566665649414063,
+          "longitude": 16.566667556762695
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 417,
+          "bounding_y": 318,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 422,
+          "screenpos_y": 330
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "SILL",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "464451N",
+          "geo_long": "0122503E",
+          "latitude": 46.747501373291016,
+          "longitude": 12.417500495910645
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 395,
+          "bounding_y": 333,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 400,
+          "screenpos_y": 345
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "IMST",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "471400N",
+          "geo_long": "0104400E",
+          "latitude": 47.233333587646484,
+          "longitude": 10.733333587646484
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 385,
+          "bounding_y": 328,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 390,
+          "screenpos_y": 340
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "LAND",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470800N",
+          "geo_long": "0103400E",
+          "latitude": 47.133335113525391,
+          "longitude": 10.566666603088379
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 384,
+          "bounding_y": 329,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 389,
+          "screenpos_y": 341
+        },
+        "selections": {
+          "selected_entry": 0,
+          "selected_part": 3
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "STAN",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470700N",
+          "geo_long": "0101600E",
+          "latitude": 47.116664886474609,
+          "longitude": 10.266666412353516
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 383,
+          "bounding_y": 329,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 388,
+          "screenpos_y": 341
+        },
+        "selections": {
+          "selected_entry": -1
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "BREG",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "473000N",
+          "geo_long": "0094500E",
+          "latitude": 47.5,
+          "longitude": 9.75
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 380,
+          "bounding_y": 326,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 385,
+          "screenpos_y": 338
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "BLUD",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "470900N",
+          "geo_long": "0094900E",
+          "latitude": 47.150001525878906,
+          "longitude": 9.8166666030883789
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 380,
+          "bounding_y": 329,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 385,
+          "screenpos_y": 341
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    },
+    {
+      "model": {
+        "classname": "CpPoint",
+        "attribute": "CpPoint",
+        "objecttype": "Point",
+        "name": "DOBI",
+        "point_kind": 4,
+        "object_map_name": "names",
+        "position": {
+          "geo_lat": "472500N",
+          "geo_long": "0094500E",
+          "latitude": 47.416667938232422,
+          "longitude": 9.75
+        }
+      },
+      "view": {
+        "classname": "PointPresentation",
+        "attribute": "SampleReport",
+        "canvas": 1,
+        "layer": 115,
+        "line": {
+          "line_color": "C_Map_2",
+          "line_overcolor": "C_Map_1",
+          "line_dashcolor": "C_Map_1"
+        },
+        "label": {
+          "label_offset_x": 40,
+          "label_offset_y": 0,
+          "label_blowup_x": 2,
+          "label_blowup_y": 2,
+          "labelsize_x": 51,
+          "labelsize_y": 15
+        },
+        "max_labelentries": [
+          {
+            "format": "@@",
+            "color": "C_Active_Map_Type_2",
+            "overcolor": "C_Active_Map_Type_2",
+            "attribute": "name",
+            "length": 6
+          }
+        ],
+        "symbol": {
+          "symbol_color": "C_Active_Map_Type_5",
+          "symbol_overcolor": "C_Active_Map_Type_5"
+        },
+        "connector": {
+          "connector_visible": false,
+          "connector_color": "BLACK"
+        },
+        "bounding": {
+          "bounding_x": 380,
+          "bounding_y": 327,
+          "bounding_w": 76,
+          "bounding_h": 25
+        },
+        "attributes": {
+          "pos_x_attr": "pos_x",
+          "pos_y_attr": "pos_y"
+        },
+        "screenpos": {
+          "screenpos_x": 385,
+          "screenpos_y": 339
+        },
+        "selections": {
+          "selected_entry": 0
+        }
+      }
+    }
+  ]
+}
