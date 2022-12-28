@@ -28,7 +28,7 @@ class ExerciseEditor:
         tb.Label(self.main_root, text="Exercise Editor V1").pack()
 
         self.__ASD = ASD(self.main_root)
-        self.__ASD.pack()
+        self.__ASD.pack(fill="both")
 
     def __createMainMenu(self) -> None:
         # Menü erstellen
